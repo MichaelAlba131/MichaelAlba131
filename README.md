@@ -5,8 +5,8 @@
 Sou um profissional com 10+ anos de experiência em automação de testes e qualidade de software, apaixonado por transformar processos complexos em soluções eficientes, escaláveis e de alta qualidade. Minha atuação impacta diretamente na eficiência operacional, redução de custos e aceleração de entregas.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlba131&show_icons=true&theme=radical&hide_border=true" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlba131&layout=compact&theme=radical&hide_border=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlba131&show_icons=true&theme=radical&hide_border=true" width="440" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlba131&layout=compact&theme=radical&hide_border=true" width="390" />
 </p>
 
 ---
