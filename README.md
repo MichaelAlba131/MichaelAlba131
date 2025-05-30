@@ -41,9 +41,8 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 
 ## 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 📧 Email: seu.email@dominio.com
-- 🌐 Portfólio / Blog (opcional)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michaelalba131/)
+- 📧 Email: michael.alba@outlook.com.br
 
 ---
 
