@@ -55,21 +55,21 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 <table>
   <tr>
     <td align="center">
-      <a href="[https://github.com/seu-usuario/cypress_javascript](https://github.com/MichaelAlba131/cypress_javascript)">
+      <a href="https://github.com/MichaelAlba131/cypress_javascript">
         <img src="https://img.shields.io/badge/Cypress-JavaScript-green?logo=cypress&style=for-the-badge" alt="Cypress JavaScript" /><br/>
         <b>Cypress JavaScript</b>
       </a>
       <p>Testes automatizados com Cypress usando JavaScript</p>
     </td>
     <td align="center">
-      <a href="[https://github.com/seu-usuario/java_restassured_api](https://github.com/MichaelAlba131/java_restassured_api)">
+      <a href="https://github.com/MichaelAlba131/java_restassured_api">
         <img src="https://img.shields.io/badge/Java-RestAssured-yellow?logo=java&style=for-the-badge" alt="Java RestAssured API" /><br/>
         <b>Java RestAssured API</b>
       </a>
       <p>Framework de testes de API com RestAssured</p>
     </td>
     <td align="center">
-      <a href="[https://github.com/seu-usuario/selenium_java_framework](https://github.com/MichaelAlba131/selenium_java_framework)">
+      <a href="https://github.com/MichaelAlba131/selenium_java_framework">
         <img src="https://img.shields.io/badge/Selenium-Java-blue?logo=selenium&style=for-the-badge" alt="Selenium Java Framework" /><br/>
         <b>Selenium Java Framework</b>
       </a>
