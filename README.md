@@ -62,6 +62,13 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       <p>Testes automatizados com Cypress usando JavaScript</p>
     </td>
     <td align="center">
+      <a href="https://github.com/MichaelAlba131/cypress_typescript">
+        <img src="https://img.shields.io/badge/Cypress-JavaScript-green?logo=cypress&style=for-the-badge" alt="Cypress TypeScript" /><br/>
+        <b>Cypress TypeScript</b>
+      </a>
+      <p>Testes automatizados com Cypress usando TypeScript</p>
+    </td>
+    <td align="center">
       <a href="https://github.com/MichaelAlba131/java_restassured_api">
         <img src="https://img.shields.io/badge/Java-RestAssured-yellow?logo=java&style=for-the-badge" alt="Java RestAssured API" /><br/>
         <b>Java RestAssured API</b>
