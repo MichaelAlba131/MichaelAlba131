@@ -83,6 +83,15 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       <p>Framework de automação web com Selenium em Java</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/java_playwright_api">
+        <img src="https://img.shields.io/badge/Playwright-Java-blueviolet?logo=playwright&style=for-the-badge" alt="Java Playwright API"/><br/>
+        <b>Java Playwright API</b>
+      </a>
+      <p>Testes automatizados com Playwright API usando Java</p>
+    </td>
+  </tr>
 </table>
 
 
