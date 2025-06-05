@@ -77,8 +77,8 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     </td>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/selenium_java_framework">
-        <img src="https://img.shields.io/badge/Selenium-Java-blue?logo=selenium&style=for-the-badge" alt="Selenium Java Framework" /><br/>
-        <b>Selenium Java Framework</b>
+        <img src="https://img.shields.io/badge/Selenium-Java-blue?logo=selenium&style=for-the-badge" alt="Java Selenium Framework" /><br/>
+        <b>Java Selenium Framework</b>
       </a>
       <p>Framework de automação web com Selenium em Java</p>
     </td>
