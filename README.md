@@ -103,6 +103,14 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       </a>
       <p>Testes de API com Playwright em Java.</p>
     </td>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/java_playwright_framework">
+        <img src="https://img.shields.io/badge/Playwright-Java-1abc9c?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
+        <b>Java Playwright Framework</b>
+      </a>
+      <p>Framework de automação web com Playwright, Java e Cucumber.</p>
+    </td>
+
   </tr>
 </table>
 
