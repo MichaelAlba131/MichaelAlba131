@@ -52,47 +52,61 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 ---
 
 <h2>🚀 Projetos em Destaque</h2>
+
+### 🟨 JavaScript
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/cypress_javascript">
-        <img src="https://img.shields.io/badge/Cypress-JavaScript-green?logo=cypress&style=for-the-badge" alt="Cypress JavaScript" /><br/>
+        <img src="https://img.shields.io/badge/Cypress-JavaScript-16ba34?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress JavaScript"/><br/>
         <b>Cypress JavaScript</b>
       </a>
-      <p>Testes automatizados com Cypress usando JavaScript</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MichaelAlba131/cypress_typescript">
-        <img src="https://img.shields.io/badge/Cypress-JavaScript-green?logo=cypress&style=for-the-badge" alt="Cypress TypeScript" /><br/>
-        <b>Cypress TypeScript</b>
-      </a>
-      <p>Testes automatizados com Cypress usando TypeScript</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MichaelAlba131/java_restassured_api">
-        <img src="https://img.shields.io/badge/Java-RestAssured-yellow?logo=java&style=for-the-badge" alt="Java RestAssured API" /><br/>
-        <b>Java RestAssured API</b>
-      </a>
-      <p>Framework de testes de API com RestAssured</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MichaelAlba131/selenium_java_framework">
-        <img src="https://img.shields.io/badge/Selenium-Java-blue?logo=selenium&style=for-the-badge" alt="Java Selenium Framework" /><br/>
-        <b>Java Selenium Framework</b>
-      </a>
-      <p>Framework de automação web com Selenium em Java</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MichaelAlba131/java_playwright_api">
-        <img src="https://img.shields.io/badge/Playwright-Java-blueviolet?logo=playwright&style=for-the-badge" alt="Java Playwright API"/><br/>
-        <b>Java Playwright API</b>
-      </a>
-      <p>Testes automatizados com Playwright API usando Java</p>
+      <p>Testes de automação com Cypress em JavaScript.</p>
     </td>
   </tr>
 </table>
+
+### 🟦 TypeScript
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/cypress_typescript">
+        <img src="https://img.shields.io/badge/Cypress-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript"/><br/>
+        <b>Cypress TypeScript</b>
+      </a>
+      <p>Testes de automação com Cypress em TypeScript.</p>
+    </td>
+  </tr>
+</table>
+
+### ☕ Java
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/java_restassured_api">
+        <img src="https://img.shields.io/badge/RestAssured-Java-f89820?logo=java&logoColor=fff&style=for-the-badge" alt="Java RestAssured API"/><br/>
+        <b>Java RestAssured API</b>
+      </a>
+      <p>Testes de API com RestAssured em Java.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/selenium_java_framework">
+        <img src="https://img.shields.io/badge/Selenium-Java-43b02a?logo=selenium&logoColor=fff&style=for-the-badge" alt="Java Selenium Framework"/><br/>
+        <b>Java Selenium Framework</b>
+      </a>
+      <p>Automação web com Selenium e Java.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/java_playwright_api">
+        <img src="https://img.shields.io/badge/Playwright-Java-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
+        <b>Java Playwright API</b>
+      </a>
+      <p>Testes de API com Playwright em Java.</p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ⭐ Se gostou do que viu por aqui, sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou me chamar para um café virtual!
