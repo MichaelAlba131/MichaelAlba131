@@ -106,7 +106,8 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
   </tr>
 </table>
 
-
+<br/>
+<br/>
 
 
 ⭐ Se gostou do que viu por aqui, sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou me chamar para um café virtual!
