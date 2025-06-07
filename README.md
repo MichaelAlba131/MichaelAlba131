@@ -59,10 +59,18 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     <td align="center">
       <a href="https://github.com/MichaelAlba131/cypress_javascript">
         <img src="https://img.shields.io/badge/Cypress-JavaScript-16ba34?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress JavaScript"/><br/>
-        <b>Cypress JavaScript</b>
+        <b>Cypress JavaScript Web</b>
       </a>
-      <p>Testes de automação com Cypress em JavaScript.</p>
+      <p>Framework de Automação web com Cypress em JavaScript.</p>
     </td>
+       <td align="center">
+    <a href="https://github.com/MichaelAlba131/javascript_playwright_runner_framework">
+      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript"/><br/>
+      <b>Playwright Runner JavaScript Web</b>
+    </a>
+    <p>Framework de Automação Web com Playwright em JavaScript.</p>
+  </td>
+
   </tr>
 </table>
 
@@ -74,7 +82,7 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
         <img src="https://img.shields.io/badge/Cypress-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript"/><br/>
         <b>Cypress TypeScript</b>
       </a>
-      <p>Testes de automação com Cypress em TypeScript.</p>
+      <p>Testes de Automação Web com Cypress em TypeScript.</p>
     </td>
   </tr>
 </table>
@@ -94,7 +102,7 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
         <img src="https://img.shields.io/badge/Selenium-Java-43b02a?logo=selenium&logoColor=fff&style=for-the-badge" alt="Java Selenium Framework"/><br/>
         <b>Java Selenium Framework</b>
       </a>
-      <p>Automação web com Selenium e Java.</p>
+      <p>Automação Web com Selenium e Java.</p>
     </td>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/java_playwright_api">
@@ -108,7 +116,7 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
         <img src="https://img.shields.io/badge/Playwright-Java-1abc9c?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
         <b>Java Playwright Framework</b>
       </a>
-      <p>Framework de automação web com Playwright, Java e Cucumber.</p>
+      <p>Framework de Automação Web com Playwright, Java e Cucumber.</p>
     </td>
 
   </tr>
