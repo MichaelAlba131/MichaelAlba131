@@ -63,8 +63,8 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       </a>
       <p>Framework de Automação web com Cypress em JavaScript.</p>
     </td>
-       <td align="center">
-    <a href="https://github.com/MichaelAlba131/javascript_playwright_runner_framework">
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/javascript_playwright_runner_framework">
       <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript"/><br/>
       <b>Playwright Runner JavaScript Web</b>
     </a>
