@@ -65,14 +65,14 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     </td>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_runner_framework">
-      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Runner"/><br/>
+      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=javascript&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Runner"/><br/>
       <b>Playwright Runner JavaScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Runner em JavaScript.</p>
     </td>
        <td align="center">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
-      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Cucumber"/><br/>
+      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=javascript&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Cucumber"/><br/>
       <b>Playwright Cucumber JavaScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Cucumber em JavaScript.</p>
@@ -85,10 +85,17 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
   <tr>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/cypress_typescript">
-        <img src="https://img.shields.io/badge/Cypress-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript"/><br/>
+        <img src="https://img.shields.io/badge/Cypress-TypeScript-3178c6?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript"/><br/>
         <b>Cypress TypeScript</b>
       </a>
       <p>Testes de Automação Web com Cypress em TypeScript.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MichaelAlba131/typescript_playwrite_cucumber_framework">
+     <img src="https://img.shields.io/badge/Cypress-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Playwright Cucumber TypeScript"/><br/>
+      <b>Playwright Cucumber TypeScript Web</b>
+    </a>
+    <p>Framework de Automação Web com Playwright Cucumber em TypeScript.</p>
     </td>
   </tr>
 </table>
