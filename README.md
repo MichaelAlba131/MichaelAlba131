@@ -65,12 +65,18 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     </td>
     <td align="center">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_runner_framework">
-      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript"/><br/>
+      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Runner"/><br/>
       <b>Playwright Runner JavaScript Web</b>
     </a>
-    <p>Framework de Automação Web com Playwright em JavaScript.</p>
-  </td>
-
+    <p>Framework de Automação Web com Playwright Runner em JavaScript.</p>
+    </td>
+       <td align="center">
+      <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
+      <img src="https://img.shields.io/badge/Playwright-JavaScript-45ba62?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Cucumber"/><br/>
+      <b>Playwright Cucumber JavaScript Web</b>
+    </a>
+    <p>Framework de Automação Web com Playwright Cucumber em JavaScript.</p>
+    </td>
   </tr>
 </table>
 
