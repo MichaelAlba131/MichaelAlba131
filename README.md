@@ -129,28 +129,28 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
   <tr>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_restassured_api">
-        <img src="https://img.shields.io/badge/RestAssured-Java-f89820?logo=java&logoColor=fff&style=for-the-badge" alt="Java RestAssured API"/><br/>
+        <img src="https://img.shields.io/badge/WEB%20|%20RestAssured-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java RestAssured API"/><br/>
         <b>Java RestAssured API</b>
       </a>
       <p>Framework de Automação API com RestAssured em Java.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/selenium_java_framework">
-        <img src="https://img.shields.io/badge/Selenium-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Selenium Framework"/><br/>
+        <img src="https://img.shields.io/badge/WEB%20|%20Selenium-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Selenium Framework"/><br/>
         <b>Java Selenium Framework</b>
       </a>
       <p>Framework de Automação Web com Selenium e Java.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_playwright_framework">
-        <img src="https://img.shields.io/badge/Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
+         <img src="https://img.shields.io/badge/WEB%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
         <b>Java Playwright Framework</b>
       </a>
       <p>Framework de Automação Web com Playwright, Java e Cucumber.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_playwright_api">
-        <img src="https://img.shields.io/badge/Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
+         <img src="https://img.shields.io/badge/API%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
         <b>Java Playwright API</b>
       </a>
       <p>Framework de Automação API com Playwright em Java.</p>
