@@ -46,8 +46,10 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 
 ## 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/michaelalba131/)
-- 📧 Email: michael.alba@outlook.com.br
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelalba131/)](https://www.linkedin.com/in/michaelalba131/)
+[![Email](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:michael.alba@outlook.com.br)
+
 
 ---
 
