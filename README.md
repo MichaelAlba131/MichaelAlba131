@@ -133,18 +133,18 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       <p>Automação Web com Selenium e Java.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
-      <a href="https://github.com/MichaelAlba131/java_playwright_api">
-        <img src="https://img.shields.io/badge/Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
-        <b>Java Playwright API</b>
-      </a>
-      <p>Testes de API com Playwright em Java.</p>
-    </td>
-    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_playwright_framework">
         <img src="https://img.shields.io/badge/Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
         <b>Java Playwright Framework</b>
       </a>
       <p>Framework de Automação Web com Playwright, Java e Cucumber.</p>
+    </td>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/java_playwright_api">
+        <img src="https://img.shields.io/badge/Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
+        <b>Java Playwright API</b>
+      </a>
+      <p>Testes de API com Playwright em Java.</p>
     </td>
   </tr>
 </table>
