@@ -60,28 +60,24 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/cypress_javascript">
         <img src="https://img.shields.io/badge/WEB%20|%20Cypress-JavaScript-16ba34?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cypress JavaScript Web"/><br/>
-        <b>Cypress JavaScript Web</b>
       </a>
       <p>Framework de Automação Web com Cypress em JavaScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_runner_framework">
         <img src="https://img.shields.io/badge/WEB%20|%20Playwright-JavaScript-16ba34?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Runner Web"/><br/>
-        <b>Playwright Runner JavaScript Web</b>
       </a>
       <p>Framework de Automação Web com Playwright Runner em JavaScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
         <img src="https://img.shields.io/badge/WEB%20|%20Playwright-JavaScript-16ba34?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Cucumber Web"/><br/>
-        <b>Playwright Cucumber JavaScript Web</b>
       </a>
       <p>Framework de Automação Web com Playwright Cucumber em JavaScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
         <img src="https://img.shields.io/badge/API%20|%20Axios-JavaScript-16ba34?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cucumber JavaScript API"/><br/>
-        <b>Cucumber JavaScript API</b>
       </a>
       <p>Framework de Automação de testes de API com JavaScript, Cucumber.js, Axios e Chai.</p>
     </td>
@@ -95,28 +91,24 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/cypress_typescript">
         <img src="https://img.shields.io/badge/WEB%20|%20Cypress-TypeScript-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript Web"/><br/>
-        <b>Cypress TypeScript</b>
       </a>
       <p>Framework de Automação Web com Cypress em TypeScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/typescript_playwrite_runner_framework">
      <img src="https://img.shields.io/badge/WEB%20|%20Playwright-TypeScript-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright TypeScript Runner Web"/><br/>
-      <b>Playwright Runner TypeScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Runner em TypeScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/typescript_playwrite_cucumber_framework">
       <img src="https://img.shields.io/badge/WEB%20|%20Playwright-TypeScript-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Playwright TypeScript Cucumber Web"/><br/>
-      <b>Playwright Cucumber TypeScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Cucumber em TypeScript.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/bdd-axios-chai-typescript">
         <img src="https://img.shields.io/badge/API%20|%20Axios-TypeScript-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cucumber JavaScript API"/><br/>
-        <b>Cucumber TypeScript API</b>
       </a>
       <p>Framework de Automação de testes de API com TypeScript, Cucumber.js, Axios e Chai.</p>
     </td>
@@ -130,28 +122,24 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_restassured_api">
         <img src="https://img.shields.io/badge/WEB%20|%20RestAssured-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java RestAssured API"/><br/>
-        <b>Java RestAssured API</b>
       </a>
       <p>Framework de Automação API com RestAssured em Java.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/selenium_java_framework">
         <img src="https://img.shields.io/badge/WEB%20|%20Selenium-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Selenium Framework"/><br/>
-        <b>Java Selenium Framework</b>
       </a>
       <p>Framework de Automação Web com Selenium e Java.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_playwright_framework">
          <img src="https://img.shields.io/badge/WEB%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright Framework"/><br/>
-        <b>Java Playwright Framework</b>
       </a>
       <p>Framework de Automação Web com Playwright, Java e Cucumber.</p>
     </td>
     <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_playwright_api">
          <img src="https://img.shields.io/badge/API%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
-        <b>Java Playwright API</b>
       </a>
       <p>Framework de Automação API com Playwright em Java.</p>
     </td>
