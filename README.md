@@ -47,9 +47,14 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 ## 📫 Vamos conversar?
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelalba131/)](https://www.linkedin.com/in/michaelalba131/)
-[![Email](https://img.shields.io/badge/Email-Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:michael.alba@outlook.com.br)
-
+<p >
+  <a href="https://www.linkedin.com/in/michaelalba131/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Michael%20Alba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br/>
+  <a href="mailto:michael.alba@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-michael.alba%40outlook.com.br-0A66C2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
