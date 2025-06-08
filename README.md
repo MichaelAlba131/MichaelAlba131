@@ -131,17 +131,17 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       </a>
       <p>Framework de Automação Web com Playwright, Java e Cucumber.</p>
     </td>
-    <td align="center" valign="top" style="padding-top: 50px;">
-      <a href="https://github.com/MichaelAlba131/java_playwright_api">
-         <img src="https://img.shields.io/badge/API%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
-      </a>
-      <p>Framework de Automação API com Playwright em Java.</p>
-    </td>
      <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/java_restassured_api">
         <img src="https://img.shields.io/badge/WEB%20|%20RestAssured-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java RestAssured API"/><br/>
       </a>
       <p>Framework de Automação API com RestAssured em Java.</p>
+    </td>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/java_playwright_api">
+         <img src="https://img.shields.io/badge/API%20|%20Playwright-Java-f89820?logo=playwright&logoColor=fff&style=for-the-badge" alt="Java Playwright API"/><br/>
+      </a>
+      <p>Framework de Automação API com Playwright em Java.</p>
     </td>
   </tr>
 </table>
