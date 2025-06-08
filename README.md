@@ -79,7 +79,7 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
         <img src="https://img.shields.io/badge/API%20|%20Axios-JavaScript-16ba34?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cucumber JavaScript API"/><br/>
       </a>
-      <p>Framework de Automação de testes de API com JavaScript, Cucumber.js, Axios e Chai.</p>
+      <p>Framework de Automação de API com JavaScript, Cucumber.js, Axios e Chai.</p>
     </td>
   </tr>
 </table>
@@ -110,7 +110,7 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       <a href="https://github.com/MichaelAlba131/bdd-axios-chai-typescript">
         <img src="https://img.shields.io/badge/API%20|%20Axios-TypeScript-6e4cff?logo=playwright&logoColor=fff&style=for-the-badge" alt="Cucumber JavaScript API"/><br/>
       </a>
-      <p>Framework de Automação de testes de API com TypeScript, Cucumber.js, Axios e Chai.</p>
+      <p>Framework de Automação de API com TypeScript, Cucumber.js, Axios e Chai.</p>
     </td>
 
   </tr>
