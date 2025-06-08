@@ -112,6 +112,14 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
     </a>
     <p>Framework de Automação Web com Playwright Cucumber em TypeScript.</p>
     </td>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/bdd-axios-chai-typescript">
+        <img src="https://img.shields.io/badge/Cucumber-TypeScript-6e4cff?logo=typescript&logoColor=fff&style=for-the-badge" alt="Cucumber TypeScript API"/><br/>
+        <b>Cucumber TypeScript API</b>
+      </a>
+      <p>Framework de Automação de testes de API com TypeScript, Cucumber.js, Axios e Chai.</p>
+    </td>
+
   </tr>
 </table>
 
