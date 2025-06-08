@@ -56,48 +56,56 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
 ### 🟨 JavaScript
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/cypress_javascript">
         <img src="https://img.shields.io/badge/Cypress-JavaScript-16ba34?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress JavaScript"/><br/>
         <b>Cypress JavaScript Web</b>
       </a>
       <p>Framework de Automação web com Cypress em JavaScript.</p>
     </td>
-    <td align="center">
+    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_runner_framework">
       <img src="https://img.shields.io/badge/Playwright-JavaScript-16ba34?logo=javascript&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Runner"/><br/>
       <b>Playwright Runner JavaScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Runner em JavaScript.</p>
     </td>
-       <td align="center">
+       <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
       <img src="https://img.shields.io/badge/Playwright-JavaScript-16ba34?logo=javascript&logoColor=fff&style=for-the-badge" alt="Playwright JavaScript Cucumber"/><br/>
       <b>Playwright Cucumber JavaScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Cucumber em JavaScript.</p>
     </td>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/javascript_playwrite_cucumber_framework">
+        <img src="https://img.shields.io/badge/Cucumber-JavaScript-16ba34?logo=javascript&logoColor=fff&style=for-the-badge" alt="Cucumber JavaScript API"/><br/>
+        <b>Cucumber JavaScript API</b>
+      </a>
+      <p>Framework de Automação de testes de API com JavaScript, Cucumber.js, Axios e Chai.</p>
+    </td>
+
   </tr>
 </table>
 
 ### 🟦 TypeScript
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/cypress_typescript">
         <img src="https://img.shields.io/badge/Cypress-TypeScript-6e4cff?logo=cypress&logoColor=fff&style=for-the-badge" alt="Cypress TypeScript"/><br/>
         <b>Cypress TypeScript</b>
       </a>
       <p>Testes de Automação Web com Cypress em TypeScript.</p>
     </td>
-    <td align="center">
+    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/typescript_playwrite_runner_framework">
      <img src="https://img.shields.io/badge/Playwright-TypeScript-6e4cff?logo=typescript&logoColor=fff&style=for-the-badge" alt="Playwright Cucumber TypeScript"/><br/>
       <b>Playwright Runner TypeScript Web</b>
     </a>
     <p>Framework de Automação Web com Playwright Runner em TypeScript.</p>
     </td>
-    <td align="center">
+    <td align="center" valign="top" style="padding-top: 50px;">
       <a href="https://github.com/MichaelAlba131/typescript_playwrite_cucumber_framework">
      <img src="https://img.shields.io/badge/Playwright-TypeScript-6e4cff?logo=typescript&logoColor=fff&style=for-the-badge" alt="Playwright Cucumber TypeScript"/><br/>
       <b>Playwright Cucumber TypeScript Web</b>
