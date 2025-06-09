@@ -168,6 +168,12 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
       </a>
       <p>Framework de Automação Web com Selenium e Python.</p>
     </td>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/python_playwright_runner_framework">
+        <img src="https://img.shields.io/badge/WEB%20|%20Playwright-Python-3776AB?logo=playwright&logoColor=fff&style=for-the-badge" alt="Python Playwright Framework"/><br/>
+      </a>
+      <p>Framework de Automação Web com Playwright e Python.</p>
+  </td>
   </tr>
 </table>
 
