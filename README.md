@@ -159,6 +159,18 @@ Sempre em busca de novos desafios que me permitam crescer, colaborar e entregar 
   </tr>
 </table>
 
+### 🐍 Python
+<table>
+  <tr>
+    <td align="center" valign="top" style="padding-top: 50px;">
+      <a href="https://github.com/MichaelAlba131/python_selenium_framework">
+        <img src="https://img.shields.io/badge/WEB%20|%20Selenium-Python-3776AB?logo=playwright&logoColor=fff&style=for-the-badge" alt="Python Selenium Framework"/><br/>
+      </a>
+      <p>Framework de Automação Web com Selenium e Python.</p>
+    </td>
+  </tr>
+</table>
+
 <br/>
 <br/>
 
