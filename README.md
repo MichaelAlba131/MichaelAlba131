@@ -19,6 +19,7 @@ Sou um profissional com 10+ anos de experiência em automação de testes e qual
 - 🧪 **Frameworks de Teste**: Selenium, Playwright, Cypress, Appium, BDD (Cucumber), TDD
 - 📱 **Mobile**: Testes integrados com React Native
 - 💻 **API**: REST, SOAP, Microsserviços, Mensageria.
+- 💻 **Gestão de Projetos**: Jira, Azure.
 ---
 
 ## 🚀 Metodologias e Processos
