@@ -16,7 +16,7 @@ Sou um profissional com 10+ anos de experiência em automação de testes e qual
 - 🔧 **Automação de Testes**: Web, Console, Mobile, API e Testes de Carga
 - ⚙️ **Ferramentas**: TestComplete, UFT, QTP, Katalon, Visual Studio, JMeter, Eclipse, IntelliJ, PyCharm
 - 💻 **Linguagens**: Java, JavaScript, C#, VBScript, VBA, Python, Groovy, Ruby, Cucumber, Detox, Robot Framework
-- 🧪 **Frameworks de Teste**: Selenium, Appium, BDD (Cucumber), TDD
+- 🧪 **Frameworks de Teste**: Selenium, PlayWright, Cypress, Appium, BDD (Cucumber), TDD
 - 📱 **Mobile**: Testes integrados com React Native
 
 ---
