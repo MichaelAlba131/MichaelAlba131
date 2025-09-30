@@ -18,7 +18,7 @@ Sou um profissional com 10+ anos de experiência em automação de testes e qual
 - 💻 **Linguagens**: Java, JavaScript, C#, VBScript, VBA, Python, Groovy, Ruby, Cucumber, Detox, Robot Framework
 - 🧪 **Frameworks de Teste**: Selenium, Playwright, Cypress, Appium, BDD (Cucumber), TDD
 - 📱 **Mobile**: Testes integrados com React Native
-
+- 💻 **API**: REST, SOAP, Microsserviços, Mensageria.
 ---
 
 ## 🚀 Metodologias e Processos
