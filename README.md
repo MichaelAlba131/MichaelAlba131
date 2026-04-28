@@ -6,7 +6,7 @@ Sou um profissional com 10+ anos de experiência em automação de testes e qual
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlba131&show_icons=true&theme=radical&hide_border=true&count_private=true" width="440" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlba131&layout=compact&theme=radical&hide_border=true" width="390" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAlba131&layout=compact&theme=radical&hide_border=true&count_private=true" width="390" />
 </p>
 
 ---
