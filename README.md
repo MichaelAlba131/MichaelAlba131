@@ -1,8 +1,8 @@
 # 👋 Olá! Sou Michael Alba
 
-🎯 **Especialista em Automação e Qualidade | Engenheiro / Arquiteto de Automação Sênior | Coordenador de Automação e Qualidade**
+🎯 **Arquiteto de Soluções IA & Tech Lead QA | Especialista em Automação Escalável**
 
-Sou um profissional com 10+ anos de experiência em automação de testes e qualidade de software, apaixonado por transformar processos complexos em soluções eficientes, escaláveis e de alta qualidade. Minha atuação impacta diretamente na eficiência operacional, redução de custos e aceleração de entregas.
+Com mais de 10 anos de experiência na engenharia de qualidade, meu foco é **unir a automação de testes avançada com a Inteligência Artificial** para transformar esteiras de desenvolvimento. Desenho arquiteturas escaláveis (Web, API, Mobile) que não apenas encontram bugs, mas otimizam fluxos de trabalho, reduzem custos operacionais e aceleram drasticamente o *time-to-market* das entregas.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MichaelAlba131&show_icons=true&theme=radical&hide_border=true&count_private=true" width="440" />
